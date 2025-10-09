@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Coming Soon: SC Kill Tracker LITE
+## 🚀 SC Kill Tracker LITE
 
 Experience the power of **offline performance** — with **smart sync** when you need it.  
 The **LITE Edition** is designed for pilots who want *complete control and privacy* without relying on online systems, while still benefiting from limited sync for essential data.
