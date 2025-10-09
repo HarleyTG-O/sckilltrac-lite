@@ -1,7 +1,7 @@
 <h1 align="center">Star Citizen Kill Tracker LITE</h1>
 
 <p align="center">
-  <img src="https://github.com/HarleyTG-O/sc-killfeed/blob/main/logo-lite.png?raw=true" alt="SC Kill Tracker LITE Logo" width="200"/>
+  <img src="https://github.com/HarleyTG-O/sckilltrac-lite/blob/main/SCKillTrac-LITE.png?raw=true" alt="SC Kill Tracker LITE Logo" width="200"/>
 </p>
 
 <p align="center">
