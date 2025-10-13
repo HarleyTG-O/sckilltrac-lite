@@ -21,7 +21,7 @@
 - 🚧 **Early Access** - Features may change, bugs may occur
 - 🌐 **Internet Required** - Cannot work offline
 - 📋 **Legal Required** - Must accept [TOS](./LITE%20Legal/LITE_TOS.md), [Privacy Policy](./LITE%20Legal/LITE_PRIVACY.md), and [EULA](./LITE%20Legal/LITE_EULA.md)
-- 🔑 **License Key Needed** - Contact sckilltracker@gmail.com
+- 🔑 **License Key Needed** - Get yours on [Discord](https://discord.gg/jxfHnGQqj7)
 
 ---
 
@@ -68,9 +68,10 @@
 **Optional (Can opt out):**
 - Discord status, Usage analytics
 
-**We DON'T:**
-- ❌ Sell your data
-- ❌ Collect passwords or financial info
+**We DON'T collect:**
+- ❌ Passwords or credentials
+- ❌ Financial or payment info
+- ❌ Personal identification documents
 
 [Full Privacy Policy](./LITE%20Legal/LITE_PRIVACY.md)
 
@@ -82,16 +83,18 @@ Format: `SCKT-LTE-XXX-XXXXX`
 
 - One license per PC (HWID-locked)
 - Validated online every startup
-- Get yours: sckilltracker@gmail.com
+- **Get yours:** [Discord Server](https://discord.gg/jxfHnGQqj7)
+- **Coming soon:** https://sckilltracker.com/lite
 
 ---
 
 ## 🛠️ Support
 
 **Need Help?**
-- 📧 Email: sckilltracker@gmail.com
-- 💬 Discord: https://discord.gg/jxfHnGQqj7
-- 🐞 Issues: [GitHub](https://github.com/HarleyTG-O/sckilltrac-lite/issues)
+- 💬 **Discord:** https://discord.gg/jxfHnGQqj7 (Primary support)
+- 🐞 **GitHub Issues:** [Report bugs](https://github.com/HarleyTG-O/sckilltrac-lite/issues)
+- 🌐 **Website:** https://sckilltracker.com/lite (Coming soon)
+- 📧 **Email:** sckilltracker@gmail.com (Secondary)
 
 **Logs:** `%LocalAppData%\Harley's Studio\Star Citizen Kill Tracker LITE\logs\`
 
@@ -106,7 +109,7 @@ Format: `SCKT-LTE-XXX-XXXXX`
 
 **Ban Types:** User, License, HWID, IP, Account
 
-**Appeal:** sckilltracker@gmail.com
+**Appeals:** [Discord Server](https://discord.gg/jxfHnGQqj7) or https://sckilltracker.com/lite (coming soon)
 
 ---
 
@@ -145,10 +148,10 @@ Your gameplay helps improve NPC detection:
 
 ## 🔗 Links
 
-- 🌐 Website: https://sckilltracker.com
-- 💻 GitHub: https://github.com/HarleyTG-O/sckilltrac-lite
-- 💬 Discord: https://discord.gg/jxfHnGQqj7
-- 📧 Email: sckilltracker@gmail.com
+- 💬 **Discord:** https://discord.gg/jxfHnGQqj7 (Primary - Get keys, support, updates)
+- 💻 **GitHub:** https://github.com/HarleyTG-O/sckilltrac-lite
+- 🌐 **Website:** https://sckilltracker.com (Main) | https://sckilltracker.com/lite (Coming soon)
+- 📧 **Email:** sckilltracker@gmail.com (Secondary)
 
 ---
 
