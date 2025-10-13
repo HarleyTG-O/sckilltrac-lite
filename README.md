@@ -29,6 +29,7 @@
 
 - **Real-time Overlay** - See kills, deaths, and K/D ratio in-game
 - **AI NPC Detection** - Automatically identifies NPCs vs players
+- **System Tray Menu** - Right-click icon for updates, settings, shutdown
 - **Discord Integration** - Show your stats (optional)
 - **Auto-Updates** - Always get the latest version
 - **Toast Notifications** - Clean, non-intrusive alerts
@@ -49,12 +50,22 @@
 
 ## 🎮 Controls
 
+### Overlay Controls:
 - **Ctrl + Insert** - Lock/unlock overlay (toggle click-through)
 - **× Button** - Hide overlay
 
-**States:**
+**Overlay States:**
 - 🔒 **Locked** - Click-through (can't interact)
 - 🔓 **Unlocked** - Draggable and resizable
+
+### System Tray Menu:
+Right-click the **LITE logo** in Windows system tray for:
+- 🔄 **Check for Updates** - Manually check for new versions
+- 📋 **Main Menu** - Open full settings and statistics
+- 🔌 **Shutdown** - Close application gracefully
+- ⚠️ **Force Quit** - Force close (emergency only)
+
+**Note:** Shutdown/quit options only close the application, not your PC.
 
 ---
 
@@ -151,7 +162,7 @@ Your gameplay helps improve NPC detection:
 - 💬 **Discord:** https://discord.gg/jxfHnGQqj7 (Primary - Get keys, support, updates)
 - 💻 **GitHub:** https://github.com/HarleyTG-O/sckilltrac-lite
 - 🌐 **Website:** https://sckilltracker.com (Main) | https://sckilltracker.com/lite (Coming soon)
-- 📧 **Email:** sckilltracker@gmail.com (Secondary)
+- 📧 **Email:** sckilltracker@gmail.com
 
 ---
 
