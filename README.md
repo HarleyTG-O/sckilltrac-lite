@@ -38,7 +38,7 @@
 ## 📥 Quick Start
 
 1. Download from [Releases](https://github.com/HarleyTG-O/sckilltrac-lite/releases)
-2. Run `SCKillTrac-LITE-vX.X.X.exe`
+2. Run `SCKillTrac-LITE.exe`
 3. Enter your license key
 4. Accept legal agreements
 5. Play Star Citizen!
