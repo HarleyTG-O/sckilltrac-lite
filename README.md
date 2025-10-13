@@ -94,7 +94,7 @@ Format: `SCKT-LTE-XXX-XXXXX`
 
 - One license per PC (HWID-locked)
 - Validated online every startup
-- **Get yours:** [Discord Server](https://discord.gg/jxfHnGQqj7)
+- **Get yours:** [Discord Server] https://discord.gg/jxfHnGQqj7
 - **Coming soon:** https://sckilltracker.com/lite
 
 ---
@@ -116,11 +116,11 @@ Format: `SCKT-LTE-XXX-XXXXX`
 **Banned for:**
 - Sharing license keys
 - Reverse engineering
-- Cheating or harassment
+- Account Cheating or harassment
 
 **Ban Types:** User, License, HWID, IP, Account
 
-**Appeals:** [Discord Server](https://discord.gg/jxfHnGQqj7) or https://sckilltracker.com/lite (coming soon)
+**Appeals:** [Discord Server]- https://discord.gg/jxfHnGQqj7
 
 ---
 
@@ -134,28 +134,6 @@ Your gameplay helps improve NPC detection:
 
 ---
 
-## 📊 LITE vs Full
-
-| Feature | LITE | Full |
-|---------|------|------|
-| Real-time Overlay | ✅ | ✅ |
-| NPC Detection | ✅ | ✅ Enhanced |
-| Discord RPC | ✅ | ✅ |
-| Advanced Stats | ❌ | ✅ |
-| Cloud Sync | ❌ | ✅ |
-| Priority Support | ❌ | ✅ |
-
----
-
-## 🌟 Coming Soon
-
-- Enhanced stats dashboard
-- Session replay
-- Achievements & leaderboards
-- Customizable themes
-- More languages
-
----
 
 ## 🔗 Links
 
