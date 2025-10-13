@@ -62,7 +62,7 @@ The **LITE Edition** delivers real-time kill/death tracking for Star Citizen wit
 SC Kill Tracker LITE uses **unique license keys** for authentication:
 
 **Format:** `SCKT-LTE-XXX-XXXXX`  
-**Example:** `SCKT-LTE-HTG-OWNER`
+
 
 ### License Features:
 - One license per device (HWID-locked)
