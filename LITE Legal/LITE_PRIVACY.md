@@ -1,7 +1,7 @@
 # SC Kill Tracker LITE - Privacy Policy
 
-**Effective Date:** October 13, 2025  
-**Version:** 1.0.0
+**Effective Date:** January 15, 2025  
+**Version:** 0.1.6.2
 
 ## 1. Introduction
 
@@ -31,6 +31,8 @@ Harley's Studio ("we", "us", "our") operates SC Kill Tracker LITE ("the Software
 - Processor information
 - Available memory (RAM)
 - IP address (for API requests)
+- Overlay theme preferences (day/night mode)
+- Interaction mode settings (locked/unlocked default)
 
 **Game Data:**
 - Star Citizen log file location
@@ -315,8 +317,8 @@ By using SC Kill Tracker LITE, you acknowledge that you have read, understood, a
 
 ---
 
-**Last Updated:** October 13, 2025  
-**Version:** 1.0.0
+**Last Updated:** January 15, 2025  
+**Version:** 0.1.6.2
 
 **For questions or concerns about privacy, please contact: sckilltracker@gmail.com**
 

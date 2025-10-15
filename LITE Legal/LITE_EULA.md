@@ -1,7 +1,7 @@
 # SC Kill Tracker LITE - End User License Agreement (EULA)
 
-**Effective Date:** October 13, 2025  
-**Version:** 1.0.0
+**Effective Date:** January 15, 2025  
+**Version:** 0.1.6.2
 
 ## IMPORTANT - READ CAREFULLY
 
@@ -500,9 +500,9 @@ For EULA questions, contact: sckilltracker@gmail.com
 
 ---
 
-**Last Updated:** October 13, 2025  
-**Version:** 1.0.0  
-**EULA ID:** SCKT-LITE-EULA-v1.0.0
+**Last Updated:** January 15, 2025  
+**Version:** 0.1.6.2  
+**EULA ID:** SCKT-LITE-EULA-v0.1.6.2
 
 © 2025 Harley's Studio. All rights reserved.
 

@@ -1,7 +1,7 @@
 # SC Kill Tracker LITE - Terms of Service
 
-**Effective Date:** October 13, 2025  
-**Version:** 1.0.0
+**Effective Date:** January 15, 2025  
+**Version:** 0.1.6.2
 
 ## 1. Acceptance of Terms
 
@@ -172,5 +172,5 @@ These Terms, together with the Privacy Policy and EULA, constitute the entire ag
 
 **BY USING SC KILL TRACKER LITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.**
 
-**Last Updated:** October 13, 2025
+**Last Updated:** January 15, 2025
 
