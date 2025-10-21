@@ -1,5 +1,6 @@
 {
   "disable_client": false,
+  "nda_disable_client": false,
   "mandatory_update": false,
   "version": "v0.1.6.1",
   "nda_mode": true
